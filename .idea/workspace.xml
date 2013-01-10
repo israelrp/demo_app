@@ -22,13 +22,20 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="50" selection-start="505" selection-end="505" vertical-scroll-proportion="0.5564516">
+            <state line="41" column="22" selection-start="867" selection-end="867" vertical-scroll-proportion="0.9516129">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
@@ -326,7 +333,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="50" selection-start="505" selection-end="505" vertical-scroll-proportion="0.5564516">
+        <state line="41" column="22" selection-start="867" selection-end="867" vertical-scroll-proportion="0.9516129">
           <folding />
         </state>
       </provider>
